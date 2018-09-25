@@ -1,0 +1,21 @@
+distance = 2.0
+
+instagram_enable = True
+instagram_username = 'builderscon.io'
+instagram_password = 'xxxxxxxx'
+instagram_caption = '#builderscon'
+
+sub_return_timeout = 10000
+sub_steady_interval = 2500
+
+mask_blur_radius = 33 # ODD required
+mask_use_histogram = False
+countdown = 3
+choose_timeout = 60
+
+fullscreen = True
+vardir = './var'
+size = (1080, 1080)
+screen_size = (1920, 1080)
+
+# vim:set ft=python:
